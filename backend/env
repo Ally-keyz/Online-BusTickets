@@ -1,0 +1,13 @@
+require('dotenv').config();
+
+PORT=2000
+DB_USER= alpe
+DB_PASSWORD=alpe123
+DB_CLUSTER=EticketProject
+DB_NAME=Eticket
+CLIENT_ID=586224695454-f7h0n9vssf1t7mfuqv4hbco3f665ns5u.apps.googleusercontent.com
+CLIENT_SECRET=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
+// EMAIL=ashraftuyubahe001@gmail.com
+// PASSWORD=mbpy qfhl vsmj twf
+
+

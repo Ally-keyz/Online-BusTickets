@@ -1,0 +1,11 @@
+.gradient-overlay {
+  background: linear-gradient(to left, rgb(3, 123, 243), rgba(19, 19, 19, 0.466));
+  /* Adjust the colors and transparency as needed */
+}
+.shadow-overlay {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.566), rgba(0, 0, 0, 0.114));
+}
+.shadow-overlay-center {
+  background: linear-gradient(to bottom, rgba(136, 140, 137, 0.646), rgba(186, 184, 184, 0));
+  /* Adjust the gradient direction and opacity for the center shadow */
+}
